@@ -2,10 +2,10 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: Exocore
+title: Epochland
 description: A navigable, organised hypertext personal knowledge base
-url: https://exocore.netlify.app
-repository: remiliacorp/exocore
+url: https://epochland.netlify.app
+repository: epochman/epochland
 
 ##############################################
 # --- ANALYTICS CONFIGURATION (OPTIONAL) --- #
